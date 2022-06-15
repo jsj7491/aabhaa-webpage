@@ -1,0 +1,115 @@
+/* navigation bar styling */
+
+ .navbar-dark {
+  background-color: #151515;
+}
+
+.navbar-dark .navbar-brand {
+  color: #FFCE45;
+}
+
+.navbar .container-fluid .navbar-brand {
+  background-color: #151515;
+  color: #FFCE45;
+}
+
+.navbar .navbar-brand {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-left: 20px;
+}
+
+.navbar .container-fluid .navbar-nav .nav-item .nav-link {
+  color: #FFCE45;
+  font-weight: lighter;
+}
+
+
+/* title styling  */
+#title {
+  background-color: #EEB76B;
+  padding: 150px 250px 0 100px;
+}
+
+.ttl {
+  color: #1B263B;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-size: 3.7rem;
+  font-weight: bolder;
+  text-align: center;
+  padding: 5% 10%;
+}
+
+.container-fluid .sect {
+  padding: 5% 10%;
+}
+
+.imgs {
+  align-items: baseline;
+  padding: 32% 0 5% 48%;
+}
+
+/* product description styling */
+#prod-des {
+  padding: 7% 15%;
+  background-color: #E6E4E4;
+}
+
+.prods {
+  padding: 0 18%;
+  text-align: center;
+}
+
+.im:hover {
+  background-color: #000;
+}
+
+/* officers styling */
+#officers {
+  background-color: #EEB76B;
+  align-items: center;
+}
+
+.ofc-img {
+  text-align: center;
+  padding: 7% 0;
+  width: 20%;
+}
+
+.ofc {
+  text-align: center;
+  color: #1B263B;
+}
+
+.ofc-1 {
+  text-align: center;
+  color: #1B263B;
+}
+
+ .ofc-img {
+  margin-left: 40%;
+}
+
+/* contact and copyright styling */
+#ccp {
+  background-color: #151515;
+}
+
+.contact {
+  color: #FFCE45;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+#ccp a {
+  text-decoration: none;
+  color: #73777B;
+}
+
+.copy {
+  color: #FFCE45;
+  text-align: center;
+  padding-bottom: 2%;
+}
